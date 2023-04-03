@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "441026466387",
+    "project_id": "dima-gold",
+    "storage_bucket": "dima-gold.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:441026466387:android:5e0a798975157814c4aca6",
+        "android_client_info": {
+          "package_name": "com.example.dimagold"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "441026466387-8hnnpc9gi8fitchk9vq9p3jfgpvsjeaf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD8AdJQ5JjK5dFAKt4D8SWb-tw_c0392jw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "441026466387-8hnnpc9gi8fitchk9vq9p3jfgpvsjeaf.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
